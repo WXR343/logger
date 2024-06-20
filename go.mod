@@ -1,6 +1,6 @@
 module logger
 
-go 1.22.3
+go 1.20.1
 
 require (
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
