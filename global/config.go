@@ -2,7 +2,7 @@ package global
 
 import (
 	"github.com/spf13/viper"
-	"logger/config"
+	"github/wxr343/logger/config"
 )
 
 type Application struct {
