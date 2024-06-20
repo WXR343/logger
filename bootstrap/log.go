@@ -1,9 +1,9 @@
 package bootstrap
 
 import (
-	"github/wxr343/logger/config"
-	"github/wxr343/logger/global"
-	"github/wxr343/logger/utils"
+	"github.com/wxr343/logger/config"
+	"github.com/wxr343/logger/global"
+	"github.com/wxr343/logger/utils"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"gopkg.in/natefinch/lumberjack.v2"

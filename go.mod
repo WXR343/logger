@@ -1,4 +1,4 @@
-module github/wxr343/logger
+module github.com/wxr343/logger
 
 go 1.20.1
 

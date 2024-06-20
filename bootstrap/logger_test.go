@@ -1,7 +1,7 @@
 package bootstrap
 
 import (
-	"github/wxr343/logger/config"
+	"github.com/wxr343/logger/config"
 	"testing"
 )
 

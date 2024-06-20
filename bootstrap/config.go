@@ -2,7 +2,7 @@ package bootstrap
 
 import (
 	"github.com/spf13/viper"
-	"github/wxr343/logger/global"
+	"github.com/wxr343/logger/global"
 )
 
 func InitializeConfig() *viper.Viper {
