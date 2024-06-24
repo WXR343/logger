@@ -1,4 +1,4 @@
-package bootstrap
+package logger
 
 import (
 	"github.com/wxr343/logger/config"

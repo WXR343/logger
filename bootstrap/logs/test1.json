@@ -1,3 +1,0 @@
-{"level":"logger.info","ts":"[2024-06-20 14:05:04.410]","caller":"bootstrap/logger_test.go:26","msg":"C log init success!"}
-{"level":"logger.info","ts":"[2024-06-20 14:08:56.082]","caller":"bootstrap/logger_test.go:26","msg":"C log init success!"}
-{"level":"logger.info","ts":"[2024-06-20 14:17:41.326]","caller":"bootstrap/logger_test.go:26","msg":"C log init success!"}
